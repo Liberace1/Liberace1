@@ -53,9 +53,6 @@ Let's make things a bit more fun! Check out some of my **GitHub stats** below:
 - **Total Commits**:  
   ![Total Commits](https://img.shields.io/badge/Commits-🌍%20Total%20Commits-blue)
 
-- **GitHub Streak**:  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Liberace1&theme=radical)
-
 - **Most Used Languages**:  
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liberace1&layout=compact&theme=radical)
 
@@ -78,7 +75,7 @@ Let's make things a bit more fun! Check out some of my **GitHub stats** below:
 ## 🤝 Let’s Connect!
 
 - 📧 **Email**: [olaliberace@gmail.com](mailto:olaliberace@gmail.com)
-- 🌐 **Website**: [www.tchngine.com](https://www.Techngine.com)
+- 🌐 **Website**: [www.techngine.com](https://www.Techngine.com)
 - 💼 **LinkedIn**: [linkedin.com/in/owoloye](https://www.linkedin.com/in/owoloye)
 
 ---
