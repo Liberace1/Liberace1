@@ -66,17 +66,10 @@ Let's make things a bit more fun! Check out some of my **GitHub stats** below:
 
 ## 🤝 Let’s Connect!
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 **Website**: [www.yourwebsite.com](https://www.yourwebsite.com)
-- 💼 **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
-- 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
-
----
-## 🤝 Let’s Connect!
-
-- 📧 **Email**: [olaliberace@gmail.com](mailto:olaliberace@gmail.com)
-- 🌐 **Website**: [www.techngine.com](https://www.Techngine.com)
+- 📧 **Email**: [olalawrence1804@gmail.com](mailto:olalawrence1804@gmail.com)
+- 🌐 **Website**: [Github Pages](https://liberace1.github.io)
 - 💼 **LinkedIn**: [linkedin.com/in/owoloye](https://www.linkedin.com/in/owoloye)
+
 
 ---
 
